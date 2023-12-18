@@ -46,6 +46,12 @@ extern "C" {
 #endif /* __cplusplus */
 
 /**
+ * 这里的双向链表，参考了Linux Kernel的双向链表。
+ * https://y3v299dwqw.feishu.cn/docx/U03UdISSfoZH72xRqkdcZeTsnoe 
+ */
+
+
+/**
  * @ingroup los_list
  * Structure of a node in a doubly linked list.
  */
